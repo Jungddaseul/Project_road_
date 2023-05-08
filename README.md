@@ -14,7 +14,8 @@
 
 ### 📌 빅데이터분석정의서
 #### 1. 데이터 준비
- 1-1)데이터 정의 : 도로균열 이미지(크랙, 포트홀)\n
+ 1-1)데이터 정의 : 도로균열 이미지(크랙, 포트홀)
+ 
  1-2) 데이터 획득 방법
 - Espírito Santo, Rio Grande do Sul 및 연방 지구의 고속도로(브라질) 약 4,000장 이미지
   https://biankatpas.github.io/Cracks-and-Potholes-in-Road-Images-Dataset/
