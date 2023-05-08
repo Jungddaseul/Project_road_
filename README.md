@@ -14,10 +14,18 @@
 
 ### 📌 빅데이터분석정의서
 #### 1. 데이터 준비
- 1-1)데이터 정의 : 도로균열 이미지(크랙, 포트홀)
+ 1-1)데이터 정의 : 도로균열 이미지(크랙, 포트홀)\n
  1-2) 데이터 획득 방법
 - Espírito Santo, Rio Grande do Sul 및 연방 지구의 고속도로(브라질) 약 4,000장 이미지
   https://biankatpas.github.io/Cracks-and-Potholes-in-Road-Images-Dataset/
 - AI-hub-(도로장애물/표면 인지 영상(수도권 외) 약 10,000장 이미지
   https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&
   aihubDataSe=realm&dataSetSn=178
+
+#### 2. 모델링 가능 알고리즘
+- yolov5s, yolov5m
+
+#### 3. 검증
+- 구글 도로주행 영상
+- 대성학원 건물 뒤 도로 촬영 후 객체 검출 확인
+- 도로이미지를 넣어 객체 검출 확인
